@@ -1,3 +1,5 @@
+The following command lines can be used to obtain the results located in the folder 'test set'
+
 kurtosis2020 xxxni00001-2-1.img 112 101 2
 
 icf2020 xxxni00001-2-1.img 112 101 1.0 1.0 0.5 0.5 0.0 0.707 -4.0 -4.0
